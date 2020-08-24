@@ -17,6 +17,8 @@ grym.exe -m zanzibar.map -i 1360
 Bitmap Injection for the warthog on Last Resort
 grym.exe -m zanzibar.map -i 1360 -n new_warthog_texture.dds
 
-Thanks to:\n
-Camden for the knowledge drop of how the tag system works\n
+Thanks to:
+
+Camden for the knowledge drop of how the tag system works
+
 Krevil for info on Halo 3 zone info
