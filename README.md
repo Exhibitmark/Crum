@@ -22,3 +22,6 @@ Thanks to:
 Camden for the knowledge drop of how the tag system works
 
 Krevil for info on Halo 3 zone info
+
+For info on the manual process here's some loose info 
+https://pastebin.com/3Tv1C3Hh
